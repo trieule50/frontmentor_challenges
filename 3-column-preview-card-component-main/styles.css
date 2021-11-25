@@ -1,7 +1,39 @@
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+}
+
+h1{
+    font-family: 'Big Shoulders Display', cursive;
+}
+
 .attribution{ 
     font-size: 11px; 
     text-align: center;
 }
 .attribution a{ 
     color: hsl(228, 45%, 44%); 
+}
+
+.car-container{
+    display: flex;
+    justify-content: center;
+    padding: 10rem 16rem;
+}
+
+.car-item{
+    padding: 2rem 3rem;
+}
+
+.one{
+    background-color: hsl(31, 77%, 52%);
+}
+
+.two{
+    background-color: hsl(184, 100%, 22%);
+}
+
+.three{
+    background-color: hsl(179, 100%, 13%);
 }
