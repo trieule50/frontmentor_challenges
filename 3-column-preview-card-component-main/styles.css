@@ -2,10 +2,17 @@ p{
     color: hsla(0, 0%, 100%, 0.75);
     font-family: 'Lexend Deca', sans-serif;
     font-size: 15px;
+    padding-bottom: 4rem;
+    line-height: 26px;
 }
 
 h1{
     font-family: 'Big Shoulders Display', cursive;
+    color: hsl(0, 0%, 95%);
+}
+
+img{
+    padding-bottom: 15px;
 }
 
 .attribution{ 
@@ -23,7 +30,7 @@ h1{
 }
 
 .car-item{
-    padding: 2rem 3rem;
+    padding: 3rem 3rem;
 }
 
 .one{
