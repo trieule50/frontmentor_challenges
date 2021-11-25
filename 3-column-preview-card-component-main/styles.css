@@ -15,6 +15,15 @@ img{
     padding-bottom: 15px;
 }
 
+.button{
+    background-color: hsl(0, 0%, 95%);
+    padding: 12px 25px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    border-radius: 20px;
+
+}
+
 .attribution{ 
     font-size: 11px; 
     text-align: center;
